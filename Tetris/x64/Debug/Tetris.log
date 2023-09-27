@@ -1,11 +1,12 @@
 ﻿  Tetris.c
-C:\GitHub\Tetric-C\Tetris\Tetris.c(71,4): warning C4033: "TrySpawnNext" должен возвращать значение
-C:\GitHub\Tetric-C\Tetris\Tetris.c(119,29): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
-C:\GitHub\Tetric-C\Tetris\Tetris.c(119,45): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
-C:\GitHub\Tetric-C\Tetris\Tetris.c(80): warning C4716: TrySpawnNext: должна возвращать значение
-C:\GitHub\Tetric-C\Tetris\Tetris.c(121): warning C4716: RenderBrick: должна возвращать значение
-C:\GitHub\Tetric-C\Tetris\Tetris.c(129): warning C4716: RenderBricks: должна возвращать значение
-C:\GitHub\Tetric-C\Tetris\Tetris.c(134): warning C4716: Render: должна возвращать значение
-C:\GitHub\Tetric-C\Tetris\Tetris.c(154): warning C4716: RunLoop: должна возвращать значение
-C:\GitHub\Tetric-C\Tetris\Tetris.c(109): warning C4716: Update: должна возвращать значение
+C:\GitHub\Tetric-C\Tetris\Tetris.c(115,4): warning C4033: "TrySpawnNext" должен возвращать значение
+C:\GitHub\Tetric-C\Tetris\Tetris.c(163,29): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\GitHub\Tetric-C\Tetris\Tetris.c(163,45): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\GitHub\Tetric-C\Tetris\Tetris.c(96): warning C4716: UpdateGrid: должна возвращать значение
+C:\GitHub\Tetric-C\Tetris\Tetris.c(153): warning C4716: Update: должна возвращать значение
+C:\GitHub\Tetric-C\Tetris\Tetris.c(173): warning C4716: RenderBricks: должна возвращать значение
+C:\GitHub\Tetric-C\Tetris\Tetris.c(178): warning C4716: Render: должна возвращать значение
+C:\GitHub\Tetric-C\Tetris\Tetris.c(198): warning C4716: RunLoop: должна возвращать значение
+C:\GitHub\Tetric-C\Tetris\Tetris.c(124): warning C4716: TrySpawnNext: должна возвращать значение
+C:\GitHub\Tetric-C\Tetris\Tetris.c(165): warning C4716: RenderBrick: должна возвращать значение
   Tetris.vcxproj -> C:\GitHub\Tetric-C\Tetris\x64\Debug\Tetris.exe
